@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aluvery</string>
+    <string name="promotions">Promoções</string>
+    <string name="product_image_description">Imagem do produto</string>
+</resources>
